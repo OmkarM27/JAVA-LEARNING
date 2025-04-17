@@ -12,6 +12,8 @@
 
 This repository is a **personal learning project** where I (Omkar 👨‍💻) am mastering Java by breaking down each concept into its **own file**, writing detailed **in-code documentation**, and sharing the journey publicly.
 
+🎯 The main purpose of this project is to relearn all Java fundamentals, strengthen my understanding through hands-on practice, and share this journey openly with my peers and anyone else learning alongside me.
+
 Each Java file includes:
 - 🧠 **Theory notes** written as comments
 - 💻 **Practical examples** to run and test
